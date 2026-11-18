@@ -2,6 +2,9 @@
 
 Show navigation headers on the scrollbar.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [navigation-panel](https://github.com/lumine-code/navigation-panel) and [scrollmap](https://github.com/lumine-code/scrollmap).
+
 ## Installation
 
 To install `scrollmap-navigation` search for [scrollmap-navigation](https://web.pulsar-edit.dev/packages/scrollmap-navigation) in the Install pane of the Pulsar settings or run `ppm install scrollmap-navigation`. Alternatively, you can run `ppm install asiloisad-pulsar/scrollmap-navigation` to install a package directly from the GitHub repository.
